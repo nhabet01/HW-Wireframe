@@ -33,7 +33,10 @@ header {
 	background: #ebebeb;
 	/*font-size: 18px;*/
 	margin-bottom: 10px;
-	padding: 25px;
+	padding: 45px;
+	/*changed padding from 25px*/
+	height: 14%;
+	/*added a height distinction*/
 	
 }
 nav {
@@ -44,8 +47,11 @@ nav {
 	text-align: center;
 	color: #777;
 	background: #ebebeb;
-	padding: 25px;
+	padding: 45px;
+	/*changed padding from 25px*/
 	margin-bottom: 20px;
+	height: 14%;
+	/*added a height distinction*/
 
 	/*font-size: 18px;*/
 	/* align-content: center; */
@@ -56,10 +62,13 @@ nav {
 	text-align: center;
 	color: #777;
 	background: #ebebeb;
-	padding: 35px 0 0 0;
+	padding: 45px 0 0 0;
+	/*changed top padding from 35px*/
 	margin-bottom: 20px;
 	margin-right: 15px;
 	height: 250px;
+	height: 40%;
+	/*changed height from definite 250px to 40%*/
 	/*overflow: auto;*/
 }
 
@@ -67,12 +76,14 @@ nav {
 	display: block;
 	margin-right: 10px;
 	margin-left: 10px;
-	margin-top: 45px;
+	margin-top: 35px;
+	/*changed margin-top from 45px*/
     /*width: 98%;*/
 	background: #777;
 	color: #ebebeb;
 	text-align: center;
-	padding: 10px;
+	padding: 15px;
+	/*changed padding from 10px*/
 	/*padding-top: 25px;*/
 
 	/*position: relative;*/
@@ -82,24 +93,33 @@ nav {
 #headings {
 	background: #ebebeb;
 	color: #777;
-	padding: 10px;
+	padding: 25px;
+	/*changed padding from 10px*/
 	margin-top: 10px;
 	font-weight: bold;
+	height: 25%;
+	/*added a height*/
 }
 #paragraph {
 	color: #777;
 	background: #ebebeb;
 	margin-top: 10px;
-	padding: 10px;
+	padding: 25px;
+	/*changed padding from 10px*/
+	height: 25%;
+	/*added a height*/
 }
 aside {
 	text-align: center;
 	color: #777;
 	background: #ebebeb;
-	padding: 35px;
+	padding: 45px;
+	/*changed padding from 35px*/
 	width: 46%;
 	float: right;
 	height: 250px;
+	/*changed height from definite 250px to 40%*/
+	height: 40%;
 	margin-bottom: 20px;
 
 /*	border-color: blue;
@@ -117,6 +137,9 @@ footer {
 	background: #ebebeb;
 	
 	margin-bottom: 5px;
-	padding: 25px;
+	padding: 45px;
+	/*changed padding from 25px*/
+	height: 14%;
+	/*added a height distinction of 14%*/
 
 	}
